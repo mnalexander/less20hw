@@ -14,3 +14,12 @@ h2{
 a{
     color:brown;
 }
+
+h1{
+    font-size: 15px;
+    font-style: italic;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
